@@ -49,7 +49,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-[git clone https://github.com/your-username/Natural-Langauge-Processing-With-Sequence-Model--Coursera--DeepLearning.ai.git](https://github.com/SupratimRayChaudhury/Natural-Langauge-Processing-With-Sequence-Model--Coursera--DeepLearning.ai.git)
+[git clone https://github.com/SupratimRayChaudhury/Natural-Langauge-Processing-With-Sequence-Model--Coursera--DeepLearning.ai.git]
 ```
 
 2. Navigate to the repository:
